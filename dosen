@@ -1,0 +1,17 @@
+-- 1.2 DOSEN
+INSERT INTO dosen (kode_induk_dosen, nama_dosen, no_telepon, email, kode_prodi) VALUES
+('0801018001','Dr. Ahmad Fauzi, M.Kom.','081210000001','ahmad.fauzi@kampus.ac.id','TI'),
+('0801028002','Siti Rahmawati, M.T.','081210000002','siti.rahmawati@kampus.ac.id','TI'),
+('0801038003','Hendra Wijaya, M.Kom.','081210000003','hendra.wijaya@kampus.ac.id','TI'),
+('0801048004','Lina Marlina, M.Cs.','081210000004','lina.marlina@kampus.ac.id','TI'),
+('0801058005','Yoga Prakoso, M.T.','081210000005','yoga.prakoso@kampus.ac.id','TI'),
+('0802018006','Budi Santoso, M.Kom.','081210000006','budi.santoso@kampus.ac.id','FK'),
+('0802028007','Rina Kartika, M.Kom.','081210000007','rina.kartika@kampus.ac.id','FK'),
+('0802038008','Teguh Imanuel, M.Si.','081210000008','teguh.imanuel@kampus.ac.id','FK'),
+('0802048009','Maya Anggraini, M.T.','081210000009','maya.anggraini@kampus.ac.id','FK'),
+('0802058010','Fajar Nugroho, M.Kom.','081210000010','fajar.nugroho@kampus.ac.id','FK'),
+('0803018011','Dewi Lestari, M.Kom.','081210000011','dewi.lestari@kampus.ac.id','FT'),
+('0803028012','Rudi Hartono, M.T.','081210000012','rudi.hartono@kampus.ac.id','FT'),
+('0803038013','Nanda Permadi, M.Cs.','081210000013','nanda.permadi@kampus.ac.id','FT'),
+('0803048014','Ratna Sari, M.Kom.','081210000014','ratna.sari@kampus.ac.id','FT'),
+('0803058015','Bagus Setiawan, M.T.','081210000015','bagus.setiawan@kampus.ac.id','FT');
